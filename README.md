@@ -1,1 +1,1 @@
-# laserLBLroboticdipper This is where we will post the latest version of software for a robotic system that fabricates laser modified layer by layer thin films.  This system is controlled with an Arduino Uno microcontroller.  
+# laserLBLroboticdipper This is where we will post the latest version of software for a robotic system that fabricates laser modified layer by layer thin films.  This system is controlled with an Arduino Uno microcontroller.  A system schematic showing all aspects of the system will be posted.
